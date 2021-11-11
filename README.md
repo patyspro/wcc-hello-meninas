@@ -1,2 +1,2 @@
 # wcc-hello-meninas
-Curso wcc
+Curso WCC de Kotlin
